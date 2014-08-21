@@ -1,0 +1,28 @@
+/* stylesheet created by Greg Hartwich 
+ greghartwich.com */
+
+body{
+	margin:0px;
+	padding:0px;
+	font-family:Helvetica, sans-serif;
+}
+.headline{
+	font-size:60px;
+	color:red;
+	font-weight:bold;
+	text-align:center;
+	padding:20px;
+}
+.gregImage{
+	width:300px;
+	height:auto;
+	text-align:center;
+	margin:10px auto;
+}
+.contactInfo{
+	color:#000D0D4;
+	font-size:32px;
+	font-weight:lighter;
+	margin:10px 0;
+	text-align:center;
+}
