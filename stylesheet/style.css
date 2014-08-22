@@ -1,14 +1,19 @@
 /* stylesheet created by Greg Hartwich 
  greghartwich.com */
-
+/*comment=cntrl + ?*/
 body{
 	margin:0px;
 	padding:0px;
 	font-family:Helvetica, sans-serif;
 }
+a{
+	text-decoration:none;
+	color:green;
+	font-weight:bold;
+}
 .headline{
 	font-size:60px;
-	color:red;
+	color:30FF37;
 	font-weight:bold;
 	text-align:center;
 	padding:20px;
