@@ -2,11 +2,9 @@
  greghartwich.com */
 /*comment=cntrl + ?*/
 body{
-	background-image:../images/bgimage.jpg 
 	margin:0px;
 	padding:0px;
 	font-family:Helvetica, sans-serif;
-	background-repeat:none;
 }
 a{
 	text-decoration:none;
@@ -20,7 +18,28 @@ a{
 	text-align:center;
 	padding:20px;
 }
-.gregImage{
+.lbsImage{
+	width:300px;
+	height:auto;
+	text-align:center;
+	margin:10px auto;
+}
+}
+.biscottiImage{
+	width:300px;
+	height:auto;
+	text-align:center;
+	margin:10px auto;
+}
+}
+.twizzlerImage{
+	width:300px;
+	height:auto;
+	text-align:center;
+	margin:10px auto;
+}
+}
+.mittensImage{
 	width:300px;
 	height:auto;
 	text-align:center;
