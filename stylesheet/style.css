@@ -1,8 +1,8 @@
 /* stylesheet created by Greg Hartwich 
  greghartwich.com */
 /*comment=cntrl + ?*/
-body{
-	background-image:../images/bgimage.jpg 
+.body{
+	background-image: href= "../images/bgimage.jpg"
 	margin:0px;
 	padding:0px;
 	font-family:Helvetica, sans-serif;
