@@ -2,7 +2,7 @@
  greghartwich.com */
 /*comment=cntrl + ?*/
 .body{
-	background-image: href= "../images/bgimage.jpg";
+	background: url(../images/bgimage.jpg);
 	margin:0px;
 	padding:0px;
 	font-family:Helvetica, sans-serif;
